@@ -1,6 +1,6 @@
 # MATH350 (Statistical Inference)
 
-Course Name: Statistical Inference 
+Course Name: Statistical Inference (SI)
 
 Participants: BSc Mathematics and Data Science students of Sorbonne University 
 
