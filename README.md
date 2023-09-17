@@ -1,12 +1,12 @@
 # MATH350 (Statistical Inference)
 
-Course Name: Statistical Inference (SI)
+Course Name: Statistical Inference (SI) and Simulations
 
 Participants: BSc Mathematics and Data Science students of Sorbonne University 
 
-Faculty Name : Dr. Tanujit Chakraborty 
+Faculty Name: Dr. Tanujit Chakraborty 
 
-Timeline : September 5, 2022 to December 8, 2022   |  Sessions : 60 Sessions 
+Timeline: September 4, 2022 to December 1, 2023   |  Sessions : 60 Sessions 
 
 Email: tanujit.chakraborty@sorbonne.ae 
 
