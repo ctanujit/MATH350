@@ -16,7 +16,7 @@ Disclaimer: These notes closely follow the material in the textbooks cited in th
 
 Main References:
 
-[1] Rice, John A. Mathematical statistics and data analysis. Cengage Learning, 2006. (\href{https://korivernon.com/documents/MathematicalStatisticsandDataAnalysis3ed.pdf}{link})
+[1] Rice, John A. Mathematical statistics and data analysis. Cengage Learning, 2006. (\href{link}{https://korivernon.com/documents/MathematicalStatisticsandDataAnalysis3ed.pdf})
 
 [2] Course Notes of Stanford University: https://web.stanford.edu/class/stats200/lectures.html
 
