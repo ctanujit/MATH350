@@ -12,7 +12,7 @@ Email: tanujit.chakraborty@sorbonne.ae
 
 Course Webpage: https://www.ctanujit.org/si.html
 
-Disclaimer: These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials including courses from Stanford University, UCL, IITK, and IIMI, with some additions by the author. Below I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
+Disclaimer: These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, UCL, IITK, and IIMI, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
 
 Main References:
 
