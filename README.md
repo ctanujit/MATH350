@@ -22,6 +22,6 @@ Main References:
 
 [3] Course Notes of UCL: https://github.com/FJRubio67/StatisticalInference
 
-[4] Course Notes of IITK: https://dvats.github.io/teaching/MTH210.html
+[4] Course Notes of Columbia University: http://www.stat.columbia.edu/~bodhi/Talks/Lecture-Notes-Sp-2020.pdf
 
-[5] Course Notes of IIMI: https://sites.google.com/site/sayantaniimi/teaching/intro-prob-stat-2022
+[5] Course Notes of Penn State University: https://online.stat.psu.edu/stat415/ 
