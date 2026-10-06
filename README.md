@@ -1,5 +1,7 @@
 # MATH350 (Statistical Inference)
 
+![Poster](https://github.com/ctanujit/MATH350/blob/main/SI_Poster.png)
+
 Course Name: Statistical Inference (SI) and Simulations
 
 Participants: BSc Mathematics and Data Science students of Sorbonne University 
@@ -9,8 +11,6 @@ Faculty Name: Dr. Tanujit Chakraborty
 Timeline: September to December  |  Sessions: 60 Sessions 
 
 Email: tanujit.chakraborty@sorbonne.ae 
-
-
 
 
 Disclaimer: These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, UCL, PSU, and Columbia University, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
