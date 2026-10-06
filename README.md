@@ -16,16 +16,25 @@
 
 **Course Objectives:** The course will help the students by:
 ​
-\item Proving the Glivenko-Cantelli Theorem and assessing its fundamental character within Mathematical Statistics.
-Determine the laws of order statistics and of functions of order statistics.
-Infer the laws of the main statistics built from a Gaussian random sample, including the chi-squared statistic and the T-statistic.
-Articulate the notion of a dominated statistical model as well as that of an unbiased and consistent estimator. Construct the minimum variance unbiased estimator by the Rao-Blackwell/Lehmann-Scheffé procedure and efficient estimators in the sense of Cramér-Rao.
-Prove efficiency properties of Maximum Likelihood Estimators.
-Construct exact and asymptotic confidence intervals, likelihood ratio tests, and goodness of fit tests (chi-squared and Kolmogorov-Smirnov).
-Construct least-squares estimators in the framework of the general linear model and prove their efficiency properties.
-Test generalized linear hypotheses on parameters of linear models.
-Represent ANOVA as a linear model and perform statistical inferences in these models.
-Computer Lab Classes using RStudio. 
+1. Proving the Glivenko-Cantelli Theorem and assessing its fundamental character within Mathematical Statistics.
+
+2. Determining the laws of order statistics and of functions of order statistics.
+
+3. Inferring the laws of the main statistics built from a Gaussian random sample, including the chi-squared statistic and the T-statistic.
+
+4. Articulate the notion of a dominated statistical model as well as that of an unbiased and consistent estimator. Construct the minimum variance unbiased estimator by the Rao-Blackwell/Lehmann-Scheffé procedure and efficient estimators in the sense of Cramér-Rao.
+
+5. Prove efficiency properties of Maximum Likelihood Estimators.
+
+6. Construct exact and asymptotic confidence intervals, likelihood ratio tests, and goodness-of-fit tests (chi-squared and Kolmogorov-Smirnov).
+
+7. Construct least-squares estimators in the framework of the general linear model and prove their efficiency properties.
+
+8. Test generalized linear hypotheses on parameters of linear models.
+
+9. Represent ANOVA as a linear model and perform statistical inferences in these models.
+
+10. Computer Lab Classes using RStudio. 
 
 **Disclaimer:** These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, UCL, PSU, and Columbia University, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
 
