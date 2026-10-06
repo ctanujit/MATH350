@@ -41,9 +41,22 @@
 1) Mid-Term Examination: 25%; 2) Capstone Project (Report and Presentation): 25%;  2) End Term Test (Theory): 50%.
 
 **Textbooks**
-• Rice, John A. (2006). Mathematical statistics and data analysis, Cengage Learning (Easy to Follow Textbook)
-• Casella, George, and Roger L. Berger (2002). Statistical inference, Cengage Learning (Textbook)
+
+• Rice, John A. (2006). Mathematical statistics and data analysis, Cengage Learning (Easy-to-Follow Textbook)
+
+• Casella, George, and Roger L. Berger (2002). Statistical inference, Cengage Learning (Another Textbook)
+
 • Wasserman, Larry (2004). All of statistics: a concise course in statistical inference, Springer. (Must Try!)
+
+**Some Very Interesting Papers For Reading:**
+
+I would recommend that all participants go through these research articles (mostly non-mathematical) along with the course. Please click on the paper name to view these outstanding and interesting papers: 
+
+1. Probability - Fair coins tend to land on the same side they started: Evidence from 350,757 flips (2024): https://arxiv.org/pdf/2310.04153
+   
+3. Information Geometry - The Many Faces of Information Geometry (2022): https://www.ams.org/journals/notices/202201/rnoti-p36.pdf
+   
+5. Statistics Vs Data Science - The science of statistics versus data science: What is the future? (2021): https://www.sciencedirect.com/science/article/pii/S0040162521005448
 
 **Main References:**
 
@@ -57,6 +70,6 @@
 
 [5] Course Notes of Penn State University: https://online.stat.psu.edu/stat415/ 
 
-**Disclaimer:** These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, UCL, PSU, and Columbia University, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
+**Disclaimer:** These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, UCL, PSU, and Columbia University, with some additions by the author. These notes should not be distributed or used for commercial purposes.
 
 
