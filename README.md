@@ -36,7 +36,14 @@
 
 10. Computer Lab Classes using RStudio. 
 
-**Disclaimer:** These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, UCL, PSU, and Columbia University, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
+**Evaluation Components:** The evaluation components for the Statistical Inference (SI) course will be as follows: 
+
+1) Mid-Term Examination: 25%; 2) Capstone Project (Report and Presentation): 25%;  2) End Term Test (Theory): 50%.
+
+**Textbooks**
+• Rice, John A. (2006). Mathematical statistics and data analysis, Cengage Learning (Easy to Follow Textbook)
+• Casella, George, and Roger L. Berger (2002). Statistical inference, Cengage Learning (Textbook)
+• Wasserman, Larry (2004). All of statistics: a concise course in statistical inference, Springer. (Must Try!)
 
 **Main References:**
 
@@ -49,3 +56,7 @@
 [4] Course Notes of Columbia University: http://www.stat.columbia.edu/~bodhi/Talks/Lecture-Notes-Sp-2020.pdf
 
 [5] Course Notes of Penn State University: https://online.stat.psu.edu/stat415/ 
+
+**Disclaimer:** These notes closely follow the material in the textbooks cited in the documents and several publicly available online materials, including courses from Stanford University, UCL, PSU, and Columbia University, with some additions by the author. Below, I provide a non-exhaustive reference list. These notes should not be distributed or used for commercial purposes.
+
+
